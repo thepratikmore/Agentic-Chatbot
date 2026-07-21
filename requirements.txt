@@ -2,7 +2,7 @@ langchain
 langgraph
 langchain_community
 langchain_core
-langchain_gorq
+langchain_groq
 langchain_openai
 faiss-cpu
 streamlit
