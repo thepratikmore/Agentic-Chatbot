@@ -9,7 +9,7 @@ Agentic Chatbot is a modular AI application built to explore Agentic AI concepts
 
 ## ✨ Features
 - 🤖 AI-powered chatbot
-- 🔄 LangGraph workflow orchestration
+- 🔄 LangGraph workflow management
 - 🧠 Groq LLM integration
 - 💬 Interactive Streamlit UI
 - 📂 Modular project architecture
