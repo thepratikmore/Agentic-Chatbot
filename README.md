@@ -40,23 +40,18 @@ Agentic-Chatbot
 └── README.md
 
 
-## Installation
-git clone https://github.com/thepratikmore/Agentic-Chatbot.git
-cd Agentic-Chatbot
-python -m venv venv
-venv\Scripts\activate
-pip install -r requirements.txt
-
-
 ## Environment Variables
+
 GROQ_API_KEY=your_api_key
 
 
 ## Run the project
+
 streamlit run app.py
 
 
 ## Architecture Diagram
+
 User
    │
    ▼
