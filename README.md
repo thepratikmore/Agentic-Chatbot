@@ -24,7 +24,8 @@ Agentic Chatbot is a modular AI application built to explore Agentic AI concepts
 - Groq API
 - python-dotenv
 
-## Project structure
+## 📁 Project structure
+```
 Agentic-Chatbot
 │
 ├── src/
@@ -38,20 +39,34 @@ Agentic-Chatbot
 ├── app.py
 ├── .env
 └── README.md
+```
 
 
-## Environment Variables
+## ⚙️ Installation
+git clone https://github.com/thepratikmore/Agentic-Chatbot.git
 
+cd Agentic-Chatbot
+
+python -m venv venv
+
+venv\Scripts\activate
+
+pip install -r requirements.txt
+
+
+
+## 🔐Environment Variables
 GROQ_API_KEY=your_api_key
 
 
-## Run the project
 
+## ▶️ Run the project
 streamlit run app.py
 
 
-## Architecture Diagram
 
+## Architecture Diagram
+```
 User
    │
    ▼
@@ -68,6 +83,11 @@ Groq LLM
    │
    ▼
 Response
+```
+
+## 🎥 Demo
+<img width="960" height="512" alt="Chatbot" src="https://github.com/user-attachments/assets/a905ecb0-e8a5-4e98-8d76-e3ac4e059421" />
+
 
 
 ## 📚 What I Learned
@@ -77,6 +97,8 @@ Response
 - Streamlit application development
 - LLM integration with Groq
 - Project modularization
+
+
 
 ## 📬 Connect With Me
 LinkedIn:https://www.linkedin.com/in/pratik-b-more/
