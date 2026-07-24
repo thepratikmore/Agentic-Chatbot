@@ -29,7 +29,7 @@ The application leverages Groq LLM for fast inference, Tavily Search for retriev
 - 📰 AI News Summarizer
 
 
-  ## 📰 AI News Summarizer
+## 📰 AI News Summarizer
 
 The AI News feature retrieves the latest Artificial Intelligence news using Tavily Search and generates a concise summary using Groq LLM.
 Supported frequencies:
