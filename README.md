@@ -1,7 +1,8 @@
-### End to End Project Agentic AI Chatbots
+### 🚀 End-to-End Agentic AI Assistant
 
-# 🤖 Agentic AI Chatbot using LangGraph
-An AI-powered multi-use-case chatbot built with **LangGraph, LangChain, Streamlit, Groq, and Tavily Search**. The project demonstrates graph-based AI workflows, tool calling, and AI News summarization through an interactive web interface.
+# 🤖 Agentic AI Studio
+
+An intelligent AI assistant built with LangGraph, LangChain, Groq, and Streamlit. It combines conversational AI, real-time web search, and AI news summarization into a single application.
 
 ## 📖 Project Overview
 
