@@ -1,7 +1,5 @@
 ### 🚀 End-to-End Agentic AI Assistant
 
-# 🤖 Agentic AI Studio
-
 An intelligent AI assistant built with LangGraph, LangChain, Groq, and Streamlit. It combines conversational AI, real-time web search, and AI news summarization into a single application.
 
 ## 📖 Project Overview
